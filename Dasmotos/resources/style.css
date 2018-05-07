@@ -1,0 +1,35 @@
+#brushheader h2{
+  color:white;
+  background-color:MediumSpringGreen;
+  font-size:32px;
+  font-family:helvetica;
+  font-weight:bold;
+}
+
+#framesheader h2{
+  color:white;
+  background-color:LightCoral;
+  font-size:32px;
+  font-family:Helvetica;
+}
+
+#paintheader h2{
+  color:white;
+  background-color:SkyBlue;
+  font-size:32px;
+  font-family:helvetica;
+}
+
+p{
+  font-family:helvetica;
+
+}
+
+#mainheader h1{
+  font-size:100px;
+  color:khaki;
+  font-weight:bold;
+  Font-family:helvetica;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+
+}
